@@ -14,4 +14,4 @@ void sub()
 
 }
 
-totyuu
+u
