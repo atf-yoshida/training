@@ -7,6 +7,7 @@ void main()
 
 void sub()
 {
+	サブ
 ブランチ
 ブランチ
 ブランチ
